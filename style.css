@@ -1,0 +1,44 @@
+body {
+  background: linear-gradient(
+    #0f2027,
+    #203a43, 
+    #2c5364);
+  color: white;
+  height: 100vh;
+  font-family: sans-serif;
+  border: solid 15px #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+}
+
+#main-heading {
+    padding: 30px;
+    border-radius: 20px;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+}
+
+.list-items  {
+
+    margin-bottom: 3px;
+    border: solid 2px #fff;
+    padding: 5px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.container {
+    border: solid 5px #fff;
+    border-radius: 10px;
+    font-size: 3.5rem;
+    text-align: center;
+    padding: 15px;
+    color: #fff;
+
+}
