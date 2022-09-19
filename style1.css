@@ -1,0 +1,52 @@
+body{
+    background: linear-gradient(
+    #0f2027,
+    #203a43, 
+    #2c5364);
+    height: 40vh;
+    color: white;
+    border: solid 5px white;
+    padding: 30px;
+    text-align: center;
+    font-size: 3rem;
+    width: 400px;
+    align-self: center;
+    align-content: center;
+    align-content: flex-end;
+}
+
+.div2 {
+    background: linear-gradient(
+        #0f2027,
+        #203a43, 
+        #2c5364);
+        height: 30vh;
+        color: white;
+        border: solid 5px white;
+        padding: 30px;
+        width: 300px;
+}
+
+.div1 {
+    background: linear-gradient(
+        #0f2027,
+        #203a43, 
+        #2c5364);
+        height: 20vh;
+        color: white;
+        border: solid 2px white;
+        border-width: 3px;
+        width: 200px;
+    align-items: center;
+}
+
+.button {
+    background: linear-gradient(
+        #0f2027,
+        #203a43, 
+        #2c5364);
+        height: 5vh;
+        color: white;
+        border: solid 2px white;
+        padding: 13px;
+}

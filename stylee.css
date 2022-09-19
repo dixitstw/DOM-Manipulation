@@ -1,0 +1,77 @@
+#main-heading {
+    text-align: center;
+    color : white;
+    font-size: 4rem;
+    font-family: sans-serif;
+}
+
+body {
+    background: linear-gradient(
+    #0f2027,
+    #203a43, 
+    #2c5364);
+    height: 100vh;
+}
+
+.box-1 {
+    border: solid 2px white;
+    color: white;
+    padding: 30px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    float: left;
+    height: 200px;
+    margin-right: 400px;
+    align-self: center;
+}
+
+
+.box-2{
+    border: solid 2px white;
+    color: white;
+    padding: 30px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    float: left;
+    height: 200px;
+    margin-right: 400px;
+    align-self: center;
+}
+
+
+.box-3 {
+    border: solid 2px white;
+    color: white;
+    padding: 30px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    float: left;
+    height: 200px;
+    margin-right: 400px;
+    align-self: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
